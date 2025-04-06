@@ -1,47 +1,68 @@
-# Hi there, I'm Jaswanth 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Jaswanth+Mallampati!&center=true&size=30">
+</h1>
 
-## About me 🚀
-I'm a Full Stack Developer with a passion for creating innovative web applications. 🌐 I love to explore new technologies and build efficient, scalable solutions. Currently pursuing my career in Software Engineering.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaswanth119&style=flat-square&color=blue" alt="Profile Views">
+</p>
 
-## What I know 💻
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth119&theme=tokyonight" alt="GitHub Streak Stats">
+</div>
 
-### 🛠 Technology Stack:
+## 👨‍💻 About Me
 
-- **Frontend**: React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express.js, Python, Java
-- **Databases**: MongoDB, PostgreSQL, Firebase
-- **Cloud Services**: AWS, Firebase, Vercel
-- **Version Control**: Git, GitHub
-- **Tools & Others**: VS Code, Postman, npm, Webpack
-- **Soft Skills**: Problem Solving, Team Collaboration, Communication, Leadership
+Senior Software Engineer in Test with over 4 years of experience in the payments industry. Based in Chennai, India, I specialize in creating robust automation frameworks and ensuring high-quality software delivery.
 
-## What I want to do next 🤔
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- Master Cloud Architecture and DevOps practices 🚀
-- Explore Artificial Intelligence and Machine Learning 🤖
-- Contribute more to open source projects 🌟
-- Build innovative solutions that make a difference 💡
+## 🚀 What I Know
 
-## Some GitHub Stats 📊
+### 💻 Technical Skills:
+```javascript
+const skills = {
+    languages: ['JavaScript', 'HTML', 'CSS', 'Flutter'],
+    testing: ['Cypress', 'Maestro', 'Playwright', 'Jest'],
+    automation: ['Test Automation', 'CI/CD'],
+    api: ['RESTful API Testing'],
+    databases: ['PostgreSQL'],
+    tools: ['Git', 'GitHub', 'VS Code', 'Postman']
+}
+```
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jaswanth119&show_icons=true&theme=radical)
+### 🎓 Education:
+- **B.TECH (ECE)** - SRM University, Chennai _(2016-2020)_
+- **H.S.C** - Sri Chaitanya H.S.C, Vijayawada _(2015-2016)_
+- **S.S.C** - Bhashyam, Guntur _(2013-2014)_
 
-## Popular Repositories 📚
+## 📊 GitHub Stats
 
-### [Portfolio](https://jaswanth-portfolio.web.app/)
-My personal portfolio website built with Next.js and TailwindCSS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaswanth119&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
 
-### [Other Projects]
-- Add your other notable projects here
-- Each with a brief description
-- Include technologies used
+## 🌟 Featured Project
 
-## Let's Connect! 🤝
+<a href="https://jaswanth-portfolio.web.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth119&repo=Portfolio&theme=tokyonight" />
+</a>
 
-- 🌐 [Portfolio](https://jaswanth-portfolio.web.app/)
-- 💼 [LinkedIn](www.linkedin.com/in/jaswanth-mallampati-7a6b05221)
+## 🤝 Let's Connect
 
-- 📧 [Email](mailto:jaswanthmallampati@gmail.com)
+<p align="center">
+  <a href="https://jaswanth-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:jaswanthjmallampati@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jaswanth-mallampati-2001j119/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
-⭐️ From [jaswanth119](https://github.com/jaswanth119)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Have+a+great+day!&center=true&size=20">
+</p>

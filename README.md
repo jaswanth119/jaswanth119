@@ -47,6 +47,10 @@ const skills = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth119&repo=Portfolio&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/jaswanth119/Dental-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaswanth119&repo=Dental-project&theme=tokyonight" />
+</a>
+
 ## 🤝 Let's Connect
 
 <p align="center">
